@@ -1,0 +1,51 @@
+/* ------------------------------------ [ Desktop ] -- */
+
+@media (max-width: 1880px) {
+    body {
+      background-color: white;
+    }
+  }
+
+/* ------------------------------------ [ Tablet ] -- */
+
+  @media (max-width: 880px) {
+    body {
+      background-color: red;
+    }
+  }
+
+/* ------------------------------------ [ Phone ] -- */
+  @media (max-width: 580px) {
+    body {
+      background-color: black;
+    }
+  }
+
+
+.navContainer {
+    border: solid black;
+    border-width: .2px;
+    height: 42vh;
+    margin: 1em;
+}
+
+.top {
+    border: solid black;
+    border-width: .2px;
+    height: 42vh;
+    margin: 1em;
+}
+
+.middle {
+    border: solid black;
+    border-width: .2px;
+    height: 42vh;
+    margin: 1em;
+}
+
+.bottom {
+    border: solid black;
+    border-width: .2px;
+    height: 42vh;
+    margin: 1em;
+}
